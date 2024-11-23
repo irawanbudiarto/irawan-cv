@@ -46,7 +46,7 @@ export const RESUME_DATA = {
       start: "July 2023",
       end: null,
       description:
-        "Leading the development of Social Networking Platform for Talents and Entertainers. Technologies: React Native, RESTfull Api",
+        "Leading the mobile app development of Social Networking Platform for Talents and Entertainers. Technologies: React Native, RESTfull Api",
     },
     {
       company: "PT. Kreasinet Indo Mandiri",
